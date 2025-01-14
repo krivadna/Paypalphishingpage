@@ -1,7 +1,7 @@
 # PaypalPhishingPage
 
 <div align="center">
-  <img src="https://i.imgur.com/NQ9PvAu.jpeg" alt="Thumbnail" width="300" style="border-radius: 10px;">
+  <img src="https://i.imgur.com/7ufel3v.jpeg" alt="Thumbnail" width="300" style="border-radius: 10px;">
 </div>
 
 ### 🔐 STRICTLY FOR AUTHORIZED USE ONLY 🔐
