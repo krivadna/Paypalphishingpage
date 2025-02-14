@@ -25,7 +25,7 @@ By accessing these pages, you confirm you are:
 
 <div align="center">
 
-🔒 **SECURITY FIRST** | 📚 **RESEARCH ONLY** | ⚖️ **AUTHORIZED ACCESS**
+
 
 </div>
 
